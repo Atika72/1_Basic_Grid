@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+}
+.container{
+    width: 1000px;
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box1{
+	 width: 33.33%;
+    height: 200px;
+    float: left;
+}
+.box2{
+	width: 100%;
+    height: 200px;
+    float: left;
+}
+.box3{
+	width: 50%;
+    height: 200px;
+    float: left;
+}
+.box4{
+	width: 60%;
+    height: 200px;
+    float: left;
+ }
+ .box5{
+	width: 20%;
+    height: 200px;
+    float: left;
+ }     
+.purple{
+	background-color: #772675f2;
+}
+.blue{
+	background-color: #15357d;
+}
+.cyan{
+	background-color: #0f9696;
+}
+.skyblue{
+	background-color: #2c7fa0;;
+}
+.aliceblue{
+	background-color: #5b82a5;
+}
+.green{
+	background-color: #00803f;
+}
+.red{
+	background-color: #363556;
+}
+.orange{
+	background-color: #284269fa;
+}
+.darkblue{
+	background-color: #2a248af5;
+}
